@@ -1,0 +1,27 @@
+body{
+    background-color: #f1f1f1;
+}
+li{
+    display: inline;
+    float: left;
+}
+h1{
+    text-align: center;
+}
+li:hover{
+    background-color: chartreuse;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  ul {
+    background-color: #2c2c2c;
+    list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  }
